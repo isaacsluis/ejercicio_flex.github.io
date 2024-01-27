@@ -1,0 +1,2 @@
+cd "C:\Users\Isaacs\Documents\Curso Blockchain\reflex\ejercicio_flex"
+bash ./build.sh
